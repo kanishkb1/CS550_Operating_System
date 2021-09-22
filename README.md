@@ -12,7 +12,9 @@ Name:		Jigeesha Sanjeev Jain
 
 B-Number:	B00928112
 
-Email:		jjain11@binghamton.edu
+Email:          jjain1@binghamton.edu
+
+
 ------------------------------------------------------------------------------
 
 Code was executed and tested on remote cs.binghamton.edu
