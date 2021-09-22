@@ -16,7 +16,6 @@
 /* Accessing various types of data types*/
 #include <sys/types.h>
 /*Declarations for waiting*/
-#include <sys/wait.h>
 #include<string.h>
 
 
